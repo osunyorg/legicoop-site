@@ -2,6 +2,11 @@
 
 baseURL: https://site.legicoop.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 8b130746-79a3-4a5f-b55b-242ba6c79cf1
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
